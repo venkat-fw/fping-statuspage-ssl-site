@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = ""
+  status = 200
+  headers = {X-From = "netlify", "host"= "determined-yonath-8b51b6.netlify.com"}
