@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/*"
-  to = ""
+  from = "/"
+  to = "https://statuspage.freshping.io/"
   status = 200
   headers = {X-From = "netlify", "host"= "determined-yonath-8b51b6.netlify.com"}
